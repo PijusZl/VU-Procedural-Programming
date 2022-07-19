@@ -1,3 +1,3 @@
 ## Linked List
 
-Program that creates linked list ... and can reverse it.
+Program that creates linked list from a text file and have an option to reverse it.
